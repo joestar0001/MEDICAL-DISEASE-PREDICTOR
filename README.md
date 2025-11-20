@@ -38,7 +38,5 @@ Step 3: Test the diagnosis logic by entering symptom IDs 1, 2, 6 (Flu), typing d
 Step 4: Follow the on-screen menu to either restart the diagnosis process or exit the application.
 
 ## Screenshots
-
-<img width="630" height="738" alt="Screenshot 2025-11-20 at 11 26 37 AM" src="https://github.com/user-attachments/assets/89682a9c-21eb-4a6e-b200-2eff451818dd" />
-
-<img width="568" height="551" alt="Screenshot 2025-11-20 at 11 26 57 AM" src="https://github.com/user-attachments/assets/8f588311-3f3e-4300-8edc-fc0c60b67fa8" />
+<img width="630" height="738" alt="Screenshot 2025-11-20 at 11 26 37 AM" src="https://github.com/user-attachments/assets/254a0a4c-ce7d-4c82-a2c3-01c7f2f85f3e" />
+<img width="568" height="551" alt="Screenshot 2025-11-20 at 11 26 57 AM" src="https://github.com/user-attachments/assets/8d181c19-a4af-4602-bc2b-9701a7be2ec1" />
